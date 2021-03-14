@@ -17,7 +17,7 @@ const IndexPage = () => (
     <div id="main">
       <header className="major container medium">
         <h2>
-          We conduct experiments that
+          Bla bla
           <br />
           may or may not seriously
           <br />
